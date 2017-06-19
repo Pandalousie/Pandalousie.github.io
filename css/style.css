@@ -1,0 +1,6 @@
+.ui.steps .step:after {
+    display: none;
+}
+html, body, .content{
+    height: 100%;
+}
